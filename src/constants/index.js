@@ -1,0 +1,16 @@
+export const allData = [
+  { type: "user", name: "Randall Johnsson", status: "Active now" },
+  { type: "folder", name: "Project Docs", detail: "12 Files" },
+  { type: "file", name: "creative_file_frankdies.jpg", detail: "Edited 12m ago" },
+  { type: "user", name: "Kristinge Karand", status: "Active 2d ago" },
+  { type: "file", name: "files_krande_michelle.avi", detail: "Added 12m ago" },
+  { type: "chat", name: "Design Team Chat", detail: "Last message 1h ago" },
+  { type: "user", name: "Caroline Dribsson", status: "Unactivated" },
+  { type: "file", name: "final_dribbble_presentation.jpg", detail: "Edited 1w ago" },
+  { type: "list", name: "Sprint Backlog", detail: "8 items" },
+  { type: "folder", name: "Marketing Assets", detail: "23 Files" },
+  { type: "file", name: "budget_report_q3.xlsx", detail: "Uploaded 2d ago" },
+  { type: "chat", name: "Engineering Sync", detail: "Last message 5m ago" },
+  { type: "user", name: "Michael Robertson", status: "Active 10m ago" },
+  { type: "list", name: "Bug Triage", detail: "15 items" },
+];
